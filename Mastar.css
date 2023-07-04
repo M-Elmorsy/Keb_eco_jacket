@@ -24,20 +24,6 @@ body {
 ul {
   list-style: none;
 }
-a{
-  display: block;
-  width: fit-content;
-  padding: 10px;
-  background-color: #1593ff;
-  color: white;
-  position: absolute;
-  bottom: 0;
-  right: 40%;
-  transform: translateX(-50%);
-  text-decoration: none;
-  font-family: cursive;
-  border-radius: 25px 5px 25px 5px;
-}
 .container {
   padding-left: 15px;
   padding-right: 15px;
@@ -176,7 +162,20 @@ a{
   font-size: large;
   text-shadow: 1px 3px 0px #000000;
 }
-
+a{
+  display: block;
+  width: fit-content;
+  padding: 10px;
+  background-color: #1593ff;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  right: 40%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  font-family: cursive;
+  border-radius: 25px 5px 25px 5px;
+}
 /* End design */
 
 /* start Medium Media */
