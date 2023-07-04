@@ -175,6 +175,10 @@ a{
   text-decoration: none;
   font-family: cursive;
   border-radius: 25px 5px 25px 5px;
+  transition: 0.5s;
+}
+a:hover {
+  background-color: #0b0d0e;
 }
 /* End design */
 
